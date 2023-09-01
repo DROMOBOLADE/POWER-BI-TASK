@@ -20,6 +20,7 @@ This is a simple Microsoft Power BI task which is meant to merge 3 tables of (De
 
 
 3.	The Transform data option was used to pull-up the "Power Query Editor"which was used to merge and clean-up this set of data.
+   The null data in the employee and salary dataset were removed using 'remove-rows' to have a clean dataset of 100-rows.
 
 5.	The Employee and Salary table was at the first instance merged together, so as to be able to select a common column of employee ID,
      which allowed for this two tables to be merged as one and was named "First Merged Table".

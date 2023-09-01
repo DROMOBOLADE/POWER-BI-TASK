@@ -46,9 +46,11 @@ The following Microsoft Power BI characteristics were incorporated:
 
 ![Screenshot (118)](https://github.com/DROMOBOLADE/POWER-BI-TASK/assets/140443323/9fb831ac-21d1-481a-af7f-4dede9516f86)
 
-- The 2-Name columns was merged to have 'Full Name' column, to make for more tidy data.
+- The 2-Name columns was merged to have the 'Full Name' column, to make for a more tidy data.
   
 ![Screenshot (116)](https://github.com/DROMOBOLADE/POWER-BI-TASK/assets/140443323/001ba7ae-2be5-4736-b262-256b240d9665)
+
+This is the clean data on the desktop, with all the three tables merged as one table.
 
 ![Screenshot (119)](https://github.com/DROMOBOLADE/POWER-BI-TASK/assets/140443323/5bd4ec21-b7ec-4c5c-876e-946c33d30b26)
 

@@ -3,7 +3,7 @@
 ## Introduction
 ***
 
-This is a simple Microsoft Power BI task which is meant to merge 3 tables of (Department, Employee and Salary) together as one table which is named "Staff Bio-Data" here**. 
+**This is a simple Microsoft Power BI task which is meant to merge 3 tables of (Department, Employee and Salary) together as one table which is named "Staff Bio-Data"**. 
 
 **_Disclaimer_** : _This task is to understand series of functionalities at the introduction to Microsoft Power BI._
 ***
